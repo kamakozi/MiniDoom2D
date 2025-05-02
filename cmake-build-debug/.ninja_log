@@ -1,0 +1,16 @@
+# ninja log v6
+4	26	1746204856675830227	CMakeFiles/sdlminigame.dir/main.cpp.o	6448f1643c3cd6ee
+253	282	1746204856924819981	sdlminigame	4163010af90fb038
+4	253	1746204856676107889	CMakeFiles/sdlminigame.dir/window/MainWindow.cpp.o	65f702dead0e3187
+5	30	1746207191251376172	CMakeFiles/sdlminigame.dir/window/Player/Player.cpp.o	a7faca8c6743ac4a
+4	56	1746207191250850010	CMakeFiles/sdlminigame.dir/main.cpp.o	6448f1643c3cd6ee
+5	255	1746207191251242507	CMakeFiles/sdlminigame.dir/window/MainWindow.cpp.o	65f702dead0e3187
+2	249	1746207412981565269	CMakeFiles/sdlminigame.dir/window/MainWindow.cpp.o	65f702dead0e3187
+249	275	1746207413228399366	sdlminigame	32f1c9093a6d9e45
+3	255	1746207500249245897	CMakeFiles/sdlminigame.dir/window/MainWindow.cpp.o	65f702dead0e3187
+255	281	1746207500501880940	sdlminigame	32f1c9093a6d9e45
+3	260	1746208221316262762	CMakeFiles/sdlminigame.dir/window/MainWindow.cpp.o	65f702dead0e3187
+260	285	1746208221572985712	sdlminigame	32f1c9093a6d9e45
+2	47	1746208548812259194	CMakeFiles/sdlminigame.dir/main.cpp.o	6448f1643c3cd6ee
+2	250	1746208548812528151	CMakeFiles/sdlminigame.dir/window/MainWindow.cpp.o	65f702dead0e3187
+250	277	1746208549060120331	sdlminigame	32f1c9093a6d9e45

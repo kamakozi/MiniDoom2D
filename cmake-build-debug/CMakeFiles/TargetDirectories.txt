@@ -1,0 +1,3 @@
+/Users/zigazoric/Desktop/cpp/sdlminigame/cmake-build-debug/CMakeFiles/sdlminigame.dir
+/Users/zigazoric/Desktop/cpp/sdlminigame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zigazoric/Desktop/cpp/sdlminigame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
